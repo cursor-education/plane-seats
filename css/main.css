@@ -1,0 +1,22 @@
+@import 'colors.css';
+
+.plane {
+    width: 600px;
+    height: 600px;
+    overflow: auto;
+    margin: auto;
+}
+
+.chair {
+    background: url('../img/chair.png') center center no-repeat;
+    width: 33%;
+    height: 100px;
+    float: left;
+}
+
+.info {
+    width: 600px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+}
